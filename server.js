@@ -4,8 +4,8 @@ const dns = require('node:dns').promises;
 dns.setServers(['1.1.1.1']);
 
 
-const app = require('./app');
-const connectDB = require('./config/db');
+const app = require('./src/app');
+const connectDB = require('./src/config/db');
 
 connectDB();
 
