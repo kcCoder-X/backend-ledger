@@ -1,0 +1,1 @@
+Backend Ledger is a production-ready financial transaction system built with the MERN stack. It ensures atomic transfers, ledger-based accounting, idempotent APIs, and secure authentication for reliable money movement and audit tracking.
